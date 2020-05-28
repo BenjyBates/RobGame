@@ -1,6 +1,6 @@
 # RobGame
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/87KHZiwY-c4)
+[![Watch the video]](https://www.youtube.com/embed/87KHZiwY-c4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/87KHZiwY-c4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
