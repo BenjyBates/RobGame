@@ -1,6 +1,6 @@
 # RobGame
 
-[![Watch the video]](https://www.youtube.com/embed/87KHZiwY-c4)
+[Link to preview video](https://www.youtube.com/embed/87KHZiwY-c4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/87KHZiwY-c4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -18,4 +18,4 @@ Press the ReRoll button in the bottom corner to restart the map and re-randomise
  I designed and textured the roads, buildings and vehicle
  
  I used the following tutorial for my generation code
- <iframe width="560" height="315" src="https://www.youtube.com/embed/xkuniXI3SEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/xkuniXI3SEE
