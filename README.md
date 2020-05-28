@@ -1,5 +1,7 @@
 # RobGame
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/87KHZiwY-c4)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/87KHZiwY-c4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Press the ReRoll button in the bottom corner to restart the map and re-randomise the buildings in the city
